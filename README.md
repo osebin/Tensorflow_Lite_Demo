@@ -1,7 +1,7 @@
 # Tensorflow_Lite_Demo
 An example Android application using TensorFLow Lite is available on Tensorflow github, Creating a project directory in tensorflow/tensorflow/contrib/lite/ , which is builted on Android studio 3.0.I have download the model of tflite format and complie the  libtensorflowlite_jni.so and libtensorflowlite.jar
 
-steven.oh
+Hello I'm steven
 
 In the demo app, inference is done using the TensorFlow Lite Java API. The demo app classifies frames in real-time, displaying the top most probable classifications. It also displays the inference time taken to detect the object.
 
